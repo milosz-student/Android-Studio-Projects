@@ -6,4 +6,5 @@ Mobile application:
 * The SharedPreferences mechanism was used to store the date of the last modification of the database. The information was read during the application startup and displayed using a graphical interface.
 
 Screenshot:
+
 ![Screenshot1](Screenshot_1.png?raw=true "View from App")
